@@ -1,0 +1,9 @@
+C:\Users\HasKhan\Desktop\WinSayisalLoto\WinSayisalLoto\bin\Debug\WinSayisalLoto.exe.config
+C:\Users\HasKhan\Desktop\WinSayisalLoto\WinSayisalLoto\bin\Debug\WinSayisalLoto.exe
+C:\Users\HasKhan\Desktop\WinSayisalLoto\WinSayisalLoto\bin\Debug\WinSayisalLoto.pdb
+C:\Users\HasKhan\Desktop\WinSayisalLoto\WinSayisalLoto\obj\Debug\WinSayisalLoto.csprojResolveAssemblyReference.cache
+C:\Users\HasKhan\Desktop\WinSayisalLoto\WinSayisalLoto\obj\Debug\WinSayisalLoto.Form1.resources
+C:\Users\HasKhan\Desktop\WinSayisalLoto\WinSayisalLoto\obj\Debug\WinSayisalLoto.Properties.Resources.resources
+C:\Users\HasKhan\Desktop\WinSayisalLoto\WinSayisalLoto\obj\Debug\WinSayisalLoto.csproj.GenerateResource.Cache
+C:\Users\HasKhan\Desktop\WinSayisalLoto\WinSayisalLoto\obj\Debug\WinSayisalLoto.exe
+C:\Users\HasKhan\Desktop\WinSayisalLoto\WinSayisalLoto\obj\Debug\WinSayisalLoto.pdb
